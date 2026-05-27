@@ -8,7 +8,7 @@ The purpose of creating this software is to confirm that my development environm
 
 
 
-[Software Demo Video](https://www.youtube.com/watch?v=ztxIxbRyPJ)
+[Software Demo Video](https://www.youtube.com)
 
 # Development Environment
 
