@@ -1,2 +1,2 @@
-#Hello World Example
+#Hello World Module
 print ("Hello World!")

@@ -8,7 +8,7 @@ The purpose of creating this software is to confirm that my development environm
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ztxIxbRyPJ)
 
 # Development Environment
 
@@ -22,5 +22,5 @@ Programming Language:
 
 * [GitHub Documentation](https://docs.github.com/)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name]
+* [Web Site Name]
